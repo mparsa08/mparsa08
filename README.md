@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey there! I'm a passionate developer with a love for coding and problem-solving. I enjoy building user-friendly applications and exploring new technologies. Let's create amazing things together! 🚀😄<br>👨‍💻 In this vast realm of programming, I thrive in Android development 📱💻. I enjoy building robust and user-friendly applications that bring value and joy to people's lives. 💡<br>🚀 Happy coding and keep spreading the positive vibes! 😄✨<br><br><br><br><br>
+Hi, my name is Parsa, as you can see, and I'm really exhausted by fake and AI-generated bios. I'm a simple person who likes coding for many reasons (nobody cares anyway). I hope you like me and give me some projects to work on. Otherwise, I will become MAD! BYE.
+<br><br><br><br><br>
 
 
 ## 🌐 Socials:
